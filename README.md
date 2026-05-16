@@ -12,6 +12,9 @@
   <a href="https://www.fabiodellaselva.com">
     <img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=About.me&logoColor=white" />
   </a>
+  <a href="https://gitlab.com/fabds">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
+  </a>
   <img src="https://img.shields.io/badge/English-C1_Advanced-informational?style=flat-square" />
   <img src="https://komarev.com/ghpvc/?username=fabds&style=flat-square&color=blue" />
 </p>
