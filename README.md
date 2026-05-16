@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749443-0810e511-4f46-4492-96aa-3c110d7bc41a.gif" width="480" />
+  <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/lofi.gif" width="480" />
 </p>
 
 ---
@@ -31,6 +31,21 @@
 Senior Backend Engineer with 10+ years of experience designing scalable applications, enterprise integrations and cloud-native systems. Expert in building backend systems that integrate ERP, CRM, PIM and e-commerce platforms (Magento 2, Shopify), ensuring scalability, reliability and high data consistency.
 
 ---
+
+```
+    _ __ _                      __              __               
+   (_) /( )_____   ____  ____  / /_   ____ _   / /_  __  ______ _
+  / / __/// ___/  / __ \/ __ \/ __/  / __ `/  / __ \/ / / / __ `/
+ / / /_  (__  )  / / / / /_/ / /_   / /_/ /  / /_/ / /_/ / /_/ / 
+/_/\__/ /____/  /_/ /_/\____/\__/   \__,_/  /_.___/\__,_/\__, ( )
+                                                        /____/|/ 
+
+    _ __ _                   ____           __                  __
+   (_) /( )_____   ____ _   / __/__  ____ _/ /___  __________  / /
+  / / __/// ___/  / __ `/  / /_/ _ \/ __ `/ __/ / / / ___/ _ \/ / 
+ / / /_  (__  )  / /_/ /  / __/  __/ /_/ / /_/ /_/ / /  /  __/_/  
+/_/\__/ /____/   \__,_/  /_/  \___/\__,_/\__/\__,_/_/   \___(_)   
+```
 
 ## What I Do
 
