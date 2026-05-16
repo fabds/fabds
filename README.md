@@ -22,6 +22,10 @@
   <img src="https://komarev.com/ghpvc/?username=fabds&style=flat-square&color=blue" />
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749443-0810e511-4f46-4492-96aa-3c110d7bc41a.gif" width="480" />
+</p>
+
 ---
 
 Senior Backend Engineer with 10+ years of experience designing scalable applications, enterprise integrations and cloud-native systems. Expert in building backend systems that integrate ERP, CRM, PIM and e-commerce platforms (Magento 2, Shopify), ensuring scalability, reliability and high data consistency.
