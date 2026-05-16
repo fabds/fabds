@@ -40,7 +40,9 @@ Senior Backend Engineer with 10+ years of experience designing scalable applicat
 
 ## 🥁 Beyond the Code
 
-Drummer and music enthusiast — when I'm not engineering systems, I'm playing in bands and exploring the intersection between music technology and software.
+🥁 **Drummer** — playing in bands and exploring the intersection between music technology and software.
+
+📷 **Photography** — capturing moments and landscapes. Find my work on [Flickr](https://www.flickr.com/photos/fabiods/) and [500px](https://500px.com/p/FabioDellaSelva).
 
 ---
 
